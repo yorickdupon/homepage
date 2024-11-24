@@ -1,0 +1,23 @@
+{
+  "name": "Yorick Dupon",
+  "short_name": "@yorickdupon",
+  "description": "De website van Yorick Dupon",
+  "icons": [
+    {
+      "sizes": "800x800",
+      "type": "image/png",
+      "src": "https://cdn.glitch.global/fca33d9c-0b2e-49bb-9527-3f92219b51a1/Yoyo.png?v=1650119870223?s=800",
+      "purpose": "any"
+    },
+    {
+      "sizes": "180x180",
+      "type": "image/png",
+      "src": "https://cdn.glitch.global/fca33d9c-0b2e-49bb-9527-3f92219b51a1/Yoyo.png?v=1650119870223?s=180",
+      "purpose": "maskable"
+    }
+  ],
+  "display": "standalone",
+  "background_color": "#DBD0F0ff",
+  "theme_color": "#708090ff",
+  "start_url": "/"
+}
