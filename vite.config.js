@@ -71,8 +71,8 @@ function createRedirectPlugin(redirects) {
 
 // List of redirects
 const redirects = [
-  { from: 'blog', to: 'https://yorickdupon.com' },
-  { from: 'code', to: 'https://yorickdupon.com' },
+  { from: 'blog', to: 'https://andypiper.co.uk' },
+  { from: 'code', to: 'https://andypiper.org' },
   // Add more redirects here as needed
 ];
 
@@ -95,6 +95,9 @@ export default defineConfig(async ({ command, mode }) => {
         'X-Powered-By': 'Glitch In Bio https://glitch.com/glitch-in-bio',
         'X-OpenSource': 'Yes',
         'X-Source-Repo': 'https://github.com/andypiper/my-glitch-in-bio',
+        'X-Author': 'Andy Piper @andypiper@macaw.social',
+        'X-Fediverse': 'Join us at https://joinmastodon.org',
+        'X-Fediverse-Account': '@andypiper@macaw.social',
         'X-Rickroll': 'Never gonna give you up, never gonna let you down',
         'X-Shopfront': 'https://shop.forgeandcraft.co.uk',
         'X-Easter-Egg': 'The angels have the phone box',
