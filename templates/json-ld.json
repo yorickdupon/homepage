@@ -3,89 +3,26 @@
   "@type": "ProfilePage",
   "mainEntity": {
     "@type": "Person",
-    "name": "Andy Piper",
-    "affiliation": [
-      {
-        "@type": "Organization",
-        "name": "Games at Work dot Biz",
-        "sameAs": [
-          "https://botsin.space/@gamesatwork_biz",
-          "https://gamesatwork.biz"
-        ]
-      },
-      {
-        "@type": "Organization",
-        "name": "Forge and Craft",
-        "sameAs": [
-          "https://forgeandcraft.co.uk",
-          "https://shop.forgeandcraft.co.uk",
-          "https://metapixl.com/forgeandcraft"
-        ]
-      }
-    ],
-    "alumniOf": [
-      {
-        "@type": "CollegeOrUniversity",
-        "name": "Brasenose College Oxford",
-        "sameAs": "https://en.wikipedia.org/wiki/Brasenose_College,_Oxford"
-      }
-    ],
-    "Description": "Technologist",
-    "jobTitle": "Freelance technology consultant & speaker",
+    "name": "Yorick Dupon",
+    
+    "Description": "Journalist",
+    "jobTitle": "Journalist bij het snelnieuwsteam van HLN",
     "worksFor": [
       {
         "@type": "Organization",
-        "name": "The Lost Outpost"
+        "name": "DPG Media"
       }
     ],
-    "email": "andypiper@omg.lol",
-    "url": "https://andypiper.me",
-    "image": "https://gravatar.com/avatar/1526dcb784188b422544c6344ef223c2?size=256",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Kingston upon Thames",
-      "addressRegion": "London",
-      "addressCountry": "United Kingdom"
-    },
+    "email": "hey@yorickdupon.com",
+    "url": "https://yorickdupon.com",
+    "image": "https://cdn.glitch.global/b7fdb4b0-fc76-40d5-8b32-7634a54862e6/profesjkleinst.webp",
     "sameAs": [
-      "https://andypiper.omg.lol/",
-      "https://andypiper.me",
-      "https://instagram.com/andypiper",
-      "https://glitch.com/@andypiper",
-      "https://replit.com/@andypiper",
-      "https://dev.to/andypiper",
-      "https://github.com/andypiper",
-      "https://gitlab.com/andypiper",
-      "https://codeberg.org/andypiper",
-      "https://www.linkedin.com/in/andypiperuk/",
-      "https://ko-fi.com/andypiper",
-      "https://twitch.tv/andypiper",
-      "https://andypiper.medium.com/",
-      "https://soundcloud.com/andypiper",
-      "https://bandcamp.com/andypiper",
-      "https://macaw.social/@andypiper",
+      "https://instagram.com/yorickdupon",
+      "https://www.linkedin.com/in/yorickdupon/",
       "https://youtube.com/andypiperuk",
-      "https://foursquare.com/andypiper",
-      "https://andypiper.co.uk/",
-      "https://pixelfed.social/@andypiper",
-      "https://makertube.net/a/andypiper",
-      "https://poly.me/andypiper",
-      "https://lobste.rs/u/andypiper",
-      "https://venera.social/profile/andypiper",
-      "https://gravatar.com/andypiper",
-      "https://pipesmarks.glitch.me/u/andypiper",
-      "https://lemmy.world/u/andypiper",
-      "https://social.lol/@andypiper",
-      "https://bookrastinating.com/user/andypiper",
-      "https://www.printables.com/@AndyPiper",
-      "https://bsky.app/profile/andypiper.me",
-      "https://threads.net/@andypiper",
-      "https://g.dev/andypiper",
-      "https://andypiper.org",
-      "https://hackaday.io/andypiper",
-      "https://andypiper.itch.io/",
-      "https://www.lexaloffle.com/bbs/?uid=52301",
-      "https://flipboard.com/@andypiper"
+      "https://yorickdupon.com",
+      "https://bsky.app/profile/yorickdupon.com,",
+      "https://threads.net/@yorickdupon"
     ]
   }
 }
