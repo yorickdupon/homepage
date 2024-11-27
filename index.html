@@ -1,6 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<<<<<<< HEAD
+=======
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="icon"
+      href="https://cdn.glitch.global/fca33d9c-0b2e-49bb-9527-3f92219b51a1/Yoyo.png?v=1650119870223"
+    />
+    <link rel="stylesheet" type="text/css" href="/styles/style.css" />
+    <a rel="me" href="https://mstdn.social/@yorickdupon"></a>
+
+    <!--
+       You found me! Hi there!
+    
+                ,/   __.,  
+           _   / \.-‘  (__  
+          _>’-‘           “”--.,_
+        <`                     <`
+        /      __               \
+       |    .-‘   ’’--.._        |
+       |  .’              ’-.    |
+       | /                    ‘. |
+       |/                       \|
+      .|/“””””””””\ _ /“””””””””\|.
+     (  |  (8)    /"""\    (8)  |  )
+      ‘-\________/     \________/-'
+         \      .       ,      /
+          '.     "-----"     .'
+            '-._         _.-'
+                 ` --- `     sjw
+    
+    -->
+
+    <!-- PWA requirements-->
+    <meta name="theme-color" content="#708090ff" />
+    <link
+      rel="apple-touch-icon"
+      href="https://cdn.glitch.global/fca33d9c-0b2e-49bb-9527-3f92219b51a1/Yoyo.png?v=1650119870223"
+    />
+    <link type="text/plain" rel="author" href="humans.txt" />
+
+    <!-- PWA setup - update public/sw.js if you add your own assets like a new .css file -->
+    <link rel="manifest" href="manifest.json" />
+    <script>
+      if (location.protocol == "http:") location.protocol = "https:";
+      if ("serviceWorker" in navigator) {
+        navigator.serviceWorker
+          .register("sw.js")
+          .then((reg) => console.log("Service Worker registered", reg))
+          .catch((err) =>
+            console.error("Service Worker **not** registered", err)
+          );
+      } else {
+        console.warn("Service Worker not supported in this browser");
+      }
+    </script>
+    <script type="module" src="scripts/render.js"></script>
+    <!-- TODO: performance; pre-connects -->
+
+>>>>>>> parent of a92a5d0 (favicon)
     <!-- OpenGraph/Social sharing -->
     <title>Yorick Dupon, journalist bij HLN</title>
     <meta name="title" content="Yorick Dupon" />
